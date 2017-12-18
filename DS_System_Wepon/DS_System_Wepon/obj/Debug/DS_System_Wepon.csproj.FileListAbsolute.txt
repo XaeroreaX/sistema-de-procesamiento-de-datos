@@ -1,0 +1,12 @@
+C:\Users\atilio.3MAR.000\Desktop\C#\DS_System_Wepon\DS_System_Wepon\bin\Debug\DS_System_Wepon.exe.config
+C:\Users\jmpit\Downloads\proyectos\DS_System_Wepon\DS_System_Wepon\bin\Debug\DS_System_Wepon.exe.config
+C:\Users\jmpit\Downloads\proyectos\DS_System_Wepon\DS_System_Wepon\obj\Debug\DS_System_Wepon.csprojResolveAssemblyReference.cache
+C:\Users\jmpit\Downloads\proyectos\DS_System_Wepon\DS_System_Wepon\bin\Debug\DS_System_Wepon.exe
+C:\Users\jmpit\Downloads\proyectos\DS_System_Wepon\DS_System_Wepon\bin\Debug\DS_System_Wepon.pdb
+C:\Users\jmpit\Downloads\proyectos\DS_System_Wepon\DS_System_Wepon\obj\Debug\DS_System_Wepon.exe
+C:\Users\jmpit\Downloads\proyectos\DS_System_Wepon\DS_System_Wepon\obj\Debug\DS_System_Wepon.pdb
+C:\Users\atilio.3MAR.000\Desktop\C#\DS_System_Wepon\DS_System_Wepon\obj\Debug\DS_System_Wepon.exe
+C:\Users\atilio.3MAR.000\Desktop\C#\DS_System_Wepon\DS_System_Wepon\obj\Debug\DS_System_Wepon.pdb
+C:\Users\Public\cv\C#\DS_System_Wepon\DS_System_Wepon\bin\Debug\DS_System_Wepon.exe.config
+C:\Users\Public\cv\C#\DS_System_Wepon\DS_System_Wepon\obj\Debug\DS_System_Wepon.exe
+C:\Users\Public\cv\C#\DS_System_Wepon\DS_System_Wepon\obj\Debug\DS_System_Wepon.pdb
